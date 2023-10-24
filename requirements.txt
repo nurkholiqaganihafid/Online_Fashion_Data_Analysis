@@ -88,6 +88,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.5.0
+pipenv==2023.10.20
 platformdirs==3.11.0
 ply==3.11
 prometheus-client==0.16.0
@@ -107,7 +108,6 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3
-pywin32
 pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.0.2
