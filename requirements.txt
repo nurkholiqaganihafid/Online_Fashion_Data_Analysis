@@ -24,8 +24,10 @@ cycler==0.11.0
 debugpy==1.6.7
 decorator==5.1.1
 defusedxml==0.7.1
+distlib==0.3.7
 executing==1.2.0
 fastjsonschema==2.16.3
+filelock==3.12.4
 flatbuffers==23.5.26
 fonttools==4.39.3
 fqdn==1.5.1
@@ -86,7 +88,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.5.0
-platformdirs==3.2.0
+platformdirs
 ply==3.11
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
@@ -100,6 +102,7 @@ pycparser==2.21
 pydeck==0.8.1b0
 Pygments==2.14.0
 pyparsing==3.0.9
+pypiwin32==223
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.7
@@ -147,6 +150,7 @@ tzlocal==5.2
 uri-template==1.2.0
 urllib3==1.26.16
 validators==0.22.0
+virtualenv==20.24.6
 watchdog==3.0.0
 wcwidth==0.2.6
 webcolors==1.13
