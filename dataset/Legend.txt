@@ -1,0 +1,9 @@
+Database ini terdiri dari empat tabel, antara lain customers, orders, products, dan sales.
+
+1. Tabel customers: tabel ini menyimpan berbagai informasi terkait customer, seperti customer_id, customer_name, gender, age, home_address, zip_code, city, state, dan country.
+
+2. Tabel orders: tabel ini menyimpan berbagai informasi terkait sebuah order yang terdiri dari order_id, customer_id, order_date, dan delivery_date.
+
+3. Tabel products: tabel ini berisi berbagai informasi terkait sebuah produk, seperti product_id, product_type, product_name, size, colour, price, quantity, dan description.
+
+4. Tabel sales: tabel ini mengandung informasi detail terkait penjualan, seperti sales_id, order_id, product_id, price_per_unit, quantity, dan total_price.
