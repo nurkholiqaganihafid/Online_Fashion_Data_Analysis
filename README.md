@@ -13,20 +13,20 @@
   - Project Result Link: [Click here](https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/blob/main/Online_Fashion_Data_Analysis.ipynb)
 
 # 📌Outline
-- [Business Questions](#🎯business-questions)
-- [Results](#🎯results)
-  - [Streamlit Dashboard](#📊streamlit-dashboard)
-  - [My Analysis Results](#📈my-analysis-results)
+- [Business Questions](#business-questions) 
+- [Results](#dartresults)
+  - [Streamlit Dashboard](#streamlit-dashboard)
+  - [My Analysis Results](#my-analysis-results)
     - [Merging all Data](#merging-all-data)
     - [Data Visualization](#data-visualization)
       - [1st Question](#1st-question)
       - [2nd Question](#2nd-question)
       - [3rd Question](#3rd-question)
       - [RFM Analysis (4th - 6th Questions)](#rfm-analysis)
-- [Conclusions and Recommendations](#📚conclusions-and-recommendations)
+- [Conclusions and Recommendations](#conclusions-and-recommendations)
 
 # 🎯Business Questions
-[👆](#📌outline)
+[👆](#outline)
 Business questions that will be answered through this data analysis include:
 1. How has the company's sales and revenue performance been in the last few months?
 2. What products sell the most and least?
@@ -35,9 +35,9 @@ Business questions that will be answered through this data analysis include:
 5. How often has a customer made purchases in the last few months?
 6. How much money did customers spend in the last few months?
 
-# 🎯Results
+# :dart:Results
 ## 📊Streamlit Dashboard
-[👆](#📌outline)
+[👆](#outline)
 Link Streamlit Dashboard: [Dicoding Collection Dashboard](https://nurkholiq-online-fashion-data-analysis.streamlit.app/)
 
 <p align="center">
@@ -46,14 +46,14 @@ Link Streamlit Dashboard: [Dicoding Collection Dashboard](https://nurkholiq-onli
 
 ## 📈My Analysis Results
 ### Merging all Data
-[👆](#📌outline) Total Data from the Merge Results
+[👆](#outline) Total Data from the Merge Results
 <p align="center">
   <img alt="Data Frame" title="Data Frame" src="https://github.com/nurkholiqaganihafid/Online_Fashion_Data_Analysis/assets/89395541/391487aa-1cc9-4fea-b621-cd3170f920c1" width="400">
 </p>
 
 ### Data Visualization
 #### 1st Question
-[👆](#📌outline)
+[👆](#outline)
 How has the company's sales and revenue performance been in the last few months?
 
 - Sales Performance in Recent Months
@@ -67,7 +67,7 @@ How has the company's sales and revenue performance been in the last few months?
 </p>
 
 #### 2nd Question
-[👆](#📌outline)
+[👆](#outline)
 What products sell the most and least?
 - Best and Worst Performing Product by Number of Sales
 <p align="center">
@@ -75,7 +75,7 @@ What products sell the most and least?
 </p>
 
 #### 3rd Question
-[👆](#📌outline)
+[👆](#outline)
 What are the customer demographics of the company?
 
 - By gender
@@ -94,7 +94,7 @@ What are the customer demographics of the company?
 </p>
 
 #### RFM Analysis
-[👆](#📌outline)
+[👆](#outline)
 To answer the last three analysis questions, an analysis technique, namely RFM analysis, can be used.
 - Recency: a parameter used to see the last time a customer made a transaction.
 - Frequency: This parameter is used to identify how often a customer makes transactions.
